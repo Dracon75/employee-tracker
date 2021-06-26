@@ -15,7 +15,7 @@ VALUES
     ('Forester', 70000, 2),
     ('Location Manager', 80000, 1),
     ('Consultant', 100000, 2),
-    ('Environmental Reasercher', 60000, 3),
+    ('Environmental Researcher', 60000, 3),
     ('Accountant', 120000, 1),
     ('Ranger', 40000, 4),
     ('Security Guard', 30000, 1);
