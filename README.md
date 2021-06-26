@@ -29,4 +29,4 @@ npm install
 
 ## Getting Started
 
-After you clone the repo and install the packages, you can run an 'node index.js' to run the program in your terminal.
+After you clone the repo and install the packages and enter the command npm run seed to auto fill the database. You can then run 'node index.js' to start the program in your terminal.
